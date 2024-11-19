@@ -1,7 +1,7 @@
 //Esto es un comentario simple
 //prueba git
 
-/*
+/*.
 esto es
 un comentario 
 en varias lineas
